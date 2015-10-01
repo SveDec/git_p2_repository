@@ -1,4 +1,4 @@
 <?php
 $nombre=rand(1,6);
-echo $nombre;
+echo "<p>Nombre tiré au sort : ".$nombre."</p>";
 ?>
