@@ -4,6 +4,6 @@
 		<title>Lancer de dé !</title>
 	</head>
 	<body>
-		// On placera ici l'affichage du dé
+		<?php include 'rand.php'; ?>
 	</body>
 </html>
